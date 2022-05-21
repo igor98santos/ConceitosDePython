@@ -52,16 +52,36 @@ print("Olá mundo!")
 #
 #print(somaQuadrados(2, 3))
 
-x = [3, 4, 5, 33, 50]
-new = []
-for i in x:
-    new.append(float(i))
-print(x)
-print(new)
+#x = [3, 4, 5, 33, 50]
+#new = []
+#or i in x:
+#new.append(float(i))
+#print(x)
+#print(new)
+#for i in new:
+#x.append(int(i))
+# print(x)
 
-for i in new:
-    x.append(int(i))
-print(x)
+
+#Tuplas em python
+# nome = ('igor', ) tuplas em
+# pythom ey não posso fazer mais nada a virgula pe mais por curiosida porque em pt quando a tupla é de um
+# indice eu coloco a virgula
+
+#Dicionario
+# Dicionario = {'Dr':'Igor', 'nota':19, 'game':'elder ring'}
+#print(Dicionario['Dr'])
+
+#Fuções lambda
+#media = lambda n1,n2,n3,n4 :  (n1+n2+n3+n4)/ 4
+#print(media(7, 3, 5, 8))
+
+
+
+
+
+
+
 
 
 
