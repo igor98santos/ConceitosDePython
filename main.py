@@ -1,5 +1,3 @@
-import colorsys
-
 print("Olá mundo!")
 # idade = int(input("Fala sua idade ai?"))
 # print("A sua idade é : %i" %idade);
@@ -90,16 +88,25 @@ print("Olá mundo!")
 #
 # print(mph2)
 
+#caracteres = [i for  i in 'Deus é Bom']
+#print(caracteres)
+
+# Pacote Numpy
+#*
+# import numpy as np
+#
+# a = np.array([1, 2, 3])
+#
+# print(a)
+# print("==================================")
+# b = np.array([(1, 8, 9, 4), (9, 0, 8, 1), (1, 9, 9, 8)])
+# print(b)
+#
+# c = np.ones((3, 5))
+#
+# print(c)
 
 
 
-
-
-
-
-
-
-
-    
 
 
